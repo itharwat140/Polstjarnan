@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\VHS-master",
+    "\\VHS-master\\VHS",
+    "\\VHS-master\\VHSBackend.Core\\Configurations",
+    "\\VHS-master\\VHSBackend.Core\\Integrations",
+    "\\VHS-master\\VHSBackend.Core\\Properties",
+    "\\VHS-master\\VHSBackend.Core\\Repository",
+    "\\VHS-master\\VHS\\Controllers",
+    "\\VHS-master\\VHS\\Filters",
+    "\\VHS-master\\VHS\\Properties"
+  ],
+  "SelectedNode": "\\VHS-master\\VHS\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
